@@ -1,8 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Image from "next/image";
 import Link from "next/link";
-import { BasketballIcon, MenuIcon, CloseIcon } from "@/components/icons";
+import { MenuIcon, CloseIcon } from "@/components/icons";
 
 const navLinks = [
   { href: "/#programs", label: "Programs" },
@@ -60,7 +61,13 @@ export default function Nav() {
             color: "var(--maroon)",
           }}
         >
-          <BasketballIcon size={24} />
+          <Image
+            src="/images/logo.jpg"
+            alt="Royal Basketball Academy"
+            width={32}
+            height={32}
+            style={{ objectFit: "contain", borderRadius: "50%" }}
+          />
           <span
             style={{
               fontFamily: "var(--font-display)",

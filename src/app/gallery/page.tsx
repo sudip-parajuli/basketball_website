@@ -9,13 +9,13 @@ export const metadata: Metadata = {
 };
 
 const GALLERY = [
-  { src: "/images/players-training.png", alt: "Players in a training drill", span: 2 },
-  { src: "/images/court.png", alt: "The Royal Basketball Academy court", span: 1 },
-  { src: "/images/coaches.png", alt: "Coach leading a session", span: 1 },
-  { src: "/images/hero-player.png", alt: "Elite training session", span: 2 },
-  { src: "/images/court.png", alt: "Evening session on the Siddhipur court", span: 1 },
-  { src: "/images/players-training.png", alt: "Group huddle after training", span: 1 },
-  { src: "/images/coaches.png", alt: "Team photo", span: 2 },
+  { src: "/images/hero_basketball.jpg", alt: "Players in a training drill", span: 2 },
+  { src: "/images/basketball2.jpg", alt: "The Royal Basketball Academy court", span: 1 },
+  { src: "/images/team_basketball.jpg", alt: "Coach leading a session", span: 1 },
+  { src: "/images/mainhero_basketball.jpg", alt: "Elite training session", span: 2 },
+  { src: "/images/basketball4.jpg", alt: "Evening session on the Siddhipur court", span: 1 },
+  { src: "/images/basketball3.jpg", alt: "Group huddle after training", span: 1 },
+  { src: "/images/basketball1.jpg", alt: "Team photo", span: 2 },
 ];
 
 export default function GalleryPage() {

@@ -74,7 +74,7 @@ export default function Coaches() {
                 }}
               />
               <Image
-                src="/images/coaches.png"
+                src="/images/team_basketball.jpg"
                 alt={`${coach.name}, ${coach.title} at Royal Basketball Academy`}
                 fill
                 sizes="35vw"

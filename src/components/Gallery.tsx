@@ -5,10 +5,10 @@ import Link from "next/link";
 import { ArrowRight } from "@/components/icons";
 
 const GALLERY_IMAGES = [
-  { src: "/images/players-training.png", alt: "Players training at Royal Basketball Academy", span: 2 },
-  { src: "/images/court.png", alt: "The Royal Basketball Academy court, Siddhipur", span: 1 },
-  { src: "/images/coaches.png", alt: "Coaches Nripesh Shrestha and Binod Maharjan", span: 1 },
-  { src: "/images/hero-player.png", alt: "Elite training session at Royal Basketball Academy", span: 2 },
+  { src: "/images/hero_basketball.jpg", alt: "Players training at Royal Basketball Academy", span: 2 },
+  { src: "/images/basketball2.jpg", alt: "The Royal Basketball Academy court, Siddhipur", span: 1 },
+  { src: "/images/team_basketball.jpg", alt: "Coaches and team at Royal Basketball Academy", span: 1 },
+  { src: "/images/mainhero_basketball.jpg", alt: "Elite training session at Royal Basketball Academy", span: 2 },
 ];
 
 export default function Gallery() {

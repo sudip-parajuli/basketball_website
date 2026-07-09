@@ -285,7 +285,7 @@ export default function Hero() {
           />
 
           <Image
-            src="/images/hero-player.png"
+            src="/images/mainhero_basketball.jpg"
             alt="Basketball player at Royal Basketball Academy, Kathmandu"
             fill
             priority

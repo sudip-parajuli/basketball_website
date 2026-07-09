@@ -1,7 +1,7 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
-import { BasketballIcon } from "@/components/icons";
 
 const FOOTER_LINKS = {
   Programs: [
@@ -45,7 +45,13 @@ export default function Footer() {
         {/* Brand */}
         <div>
           <Link href="/" className="footer-brand" style={{ display: "flex", alignItems: "center", gap: "0.625rem", textDecoration: "none", color: "var(--ivory)", marginBottom: "1.5rem" }}>
-            <BasketballIcon size={22} />
+            <Image
+              src="/images/logo.jpg"
+              alt="Royal Basketball Academy"
+              width={28}
+              height={28}
+              style={{ objectFit: "contain", borderRadius: "50%" }}
+            />
             <span style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: "1rem", letterSpacing: "-0.01em" }}>
               Royal Basketball
               <span style={{ display: "block", fontFamily: "var(--font-body)", fontWeight: 500, fontSize: "0.6rem", letterSpacing: "0.2em", textTransform: "uppercase", color: "var(--brass)", marginTop: "2px" }}>

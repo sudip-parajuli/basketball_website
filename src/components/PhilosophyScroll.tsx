@@ -161,7 +161,7 @@ export default function PhilosophyScroll() {
               }}
             />
             <Image
-              src="/images/players-training.png"
+              src="/images/hero_basketball.jpg"
               alt="Players training at Royal Basketball Academy"
               fill
               sizes="35vw"

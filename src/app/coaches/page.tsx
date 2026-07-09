@@ -58,7 +58,7 @@ export default function CoachesPage() {
             >
               <div style={{ position: "absolute", inset: 0, zIndex: 1, background: "rgba(107,20,32,0.06)", mixBlendMode: "multiply" }} />
               <Image
-                src="/images/coaches.png"
+                src="/images/team_basketball.jpg"
                 alt="Nripesh Shrestha — Head Coach at Royal Basketball Academy"
                 fill
                 sizes="35vw"
@@ -147,7 +147,7 @@ export default function CoachesPage() {
             >
               <div style={{ position: "absolute", inset: 0, zIndex: 1, background: "rgba(107,20,32,0.06)", mixBlendMode: "multiply" }} />
               <Image
-                src="/images/coaches.png"
+                src="/images/team_basketball.jpg"
                 alt="Binod Maharjan — Head Coach at Royal Basketball Academy"
                 fill
                 sizes="35vw"
