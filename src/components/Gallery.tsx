@@ -5,9 +5,9 @@ import Link from "next/link";
 import { ArrowRight } from "@/components/icons";
 
 const GALLERY_IMAGES = [
-  { src: "/images/hero_basketball.jpg", alt: "Players training at Royal Basketball Academy", span: 2 },
+  { src: "/images/basketball_female1.jpg", alt: "Female players training at Royal Basketball Academy", span: 2 },
   { src: "/images/basketball2.jpg", alt: "The Royal Basketball Academy court, Siddhipur", span: 1 },
-  { src: "/images/team_basketball.jpg", alt: "Coaches and team at Royal Basketball Academy", span: 1 },
+  { src: "/images/basketball_female4.jpg", alt: "Female athlete at Royal Basketball Academy", span: 1 },
   { src: "/images/mainhero_basketball.jpg", alt: "Elite training session at Royal Basketball Academy", span: 2 },
 ];
 

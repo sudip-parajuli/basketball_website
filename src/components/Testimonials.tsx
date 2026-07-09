@@ -9,7 +9,7 @@ const STORIES = [
     name: "Ujjwal Shrestha",
     age: "15",
     program: "Competitive & Travel Team",
-    image: "/images/basketball1.jpg",
+    image: "/images/basketball_female2.jpg",
     side: "left" as const,
   },
   {
@@ -18,7 +18,7 @@ const STORIES = [
     name: "Aanya Maharjan",
     age: "12",
     program: "Fundamentals Program",
-    image: "/images/basketball4.jpg",
+    image: "/images/basketball_female4.jpg",
     side: "right" as const,
   },
 ];
