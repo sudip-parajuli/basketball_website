@@ -102,14 +102,14 @@ export default function Contact() {
             }}
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.0!2d85.3659!3d27.6588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjfCsDM5JzMxLjciTiA4NcKwMjEnNTcuMiJF!5e0!3m2!1sen!2snp!4v1234567890"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14130.0!2d85.3564!3d27.6516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1b3b3b3b3b3b%3A0x0!2sSiddhipur!5e0!3m2!1sen!2snp!4v1700000000"
               width="100%"
               height="100%"
               style={{ border: 0, filter: "sepia(20%) saturate(0.7) brightness(0.95)" }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Royal Basketball Academy location map"
+              title="Royal Basketball Academy — Siddhipur, Lalitpur, Nepal"
             />
           </div>
 
@@ -121,8 +121,8 @@ export default function Contact() {
               lineHeight: 1.6,
             }}
           >
-            Siddhipur, Sana Gaon–Sankhadevi–Dharachour Road<br />
-            Kathmandu Valley, Nepal
+            Sana Gaun, Siddhipur, Lalitpur, Kathmandu Valley, Nepal<br />
+            Phone: +977 985-1146824 · royalbasketballnepal@gmail.com
           </p>
         </div>
 

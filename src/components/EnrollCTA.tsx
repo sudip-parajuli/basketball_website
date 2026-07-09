@@ -128,8 +128,9 @@ export default function EnrollCTA() {
             }}
           >
             {[
-              { label: "Location", value: "Siddhipur, Sana Gaon–Sankhadevi Road, Kathmandu" },
+              { label: "Location", value: "Sana Gaun, Siddhipur, Lalitpur, Kathmandu" },
               { label: "Instagram", value: "@royalbasketballnepal" },
+              { label: "Phone", value: "+977 985-1146824" },
               { label: "Founded", value: "2018" },
             ].map((item) => (
               <div key={item.label}>

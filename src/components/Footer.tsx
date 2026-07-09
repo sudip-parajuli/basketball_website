@@ -57,8 +57,8 @@ export default function Footer() {
             Where passion meets precision, and dreams take flight on the court of excellence.
           </p>
           <p style={{ fontFamily: "var(--font-body)", fontSize: "0.75rem", color: "rgba(247,243,236,0.35)", lineHeight: 1.6 }}>
-            Siddhipur, Sana Gaon–Sankhadevi–Dharachour Road<br />
-            Kathmandu Valley, Nepal
+            Sana Gaun, Siddhipur, Lalitpur, Kathmandu Valley, Nepal<br />
+            +977 985-1146824 · royalbasketballnepal@gmail.com
           </p>
         </div>
 
